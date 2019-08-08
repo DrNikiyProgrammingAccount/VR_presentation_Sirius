@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: da810ff98fca4254594af943ad697667
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box31
+    100002: Box32
+    100004: Box33
+    100006: Box34
+    100008: Box35
+    100010: Box36
+    100012: Box37
+    100014: Box38
+    100016: Box39
+    100018: Box40
+    100020: Box41
+    100022: Cylinder03
+    100024: Group01
+    100026: hand_ new0
+    100028: hand_ new1
+    100030: //RootNode
+    100032: objGroup60
+    100034: Sphere37
+    100036: Sphere38
+    100038: Sphere39
+    100040: Sphere40
+    100042: Sphere41
+    100044: Sphere42
+    100046: Sphere43
+    100048: Sphere44
+    100050: Sphere45
+    100052: Sphere46
+    100054: Sphere47
+    100056: Sphere48
+    100058: Sphere49
+    100060: Sphere50
+    400000: Box31
+    400002: Box32
+    400004: Box33
+    400006: Box34
+    400008: Box35
+    400010: Box36
+    400012: Box37
+    400014: Box38
+    400016: Box39
+    400018: Box40
+    400020: Box41
+    400022: Cylinder03
+    400024: Group01
+    400026: hand_ new0
+    400028: hand_ new1
+    400030: //RootNode
+    400032: objGroup60
+    400034: Sphere37
+    400036: Sphere38
+    400038: Sphere39
+    400040: Sphere40
+    400042: Sphere41
+    400044: Sphere42
+    400046: Sphere43
+    400048: Sphere44
+    400050: Sphere45
+    400052: Sphere46
+    400054: Sphere47
+    400056: Sphere48
+    400058: Sphere49
+    400060: Sphere50
+    2100000: 02 - Default
+    2100002: ____
+    2100004: ______ ____
+    2300000: Box31
+    2300002: Box32
+    2300004: Box33
+    2300006: Box34
+    2300008: Box35
+    2300010: Box36
+    2300012: Box37
+    2300014: Box38
+    2300016: Box39
+    2300018: Box40
+    2300020: Box41
+    2300022: Cylinder03
+    2300024: hand_ new0
+    2300026: hand_ new1
+    2300028: objGroup60
+    2300030: Sphere37
+    2300032: Sphere38
+    2300034: Sphere39
+    2300036: Sphere40
+    2300038: Sphere41
+    2300040: Sphere42
+    2300042: Sphere43
+    2300044: Sphere44
+    2300046: Sphere45
+    2300048: Sphere46
+    2300050: Sphere47
+    2300052: Sphere48
+    2300054: Sphere49
+    2300056: Sphere50
+    3300000: Box31
+    3300002: Box32
+    3300004: Box33
+    3300006: Box34
+    3300008: Box35
+    3300010: Box36
+    3300012: Box37
+    3300014: Box38
+    3300016: Box39
+    3300018: Box40
+    3300020: Box41
+    3300022: Cylinder03
+    3300024: hand_ new0
+    3300026: hand_ new1
+    3300028: objGroup60
+    3300030: Sphere37
+    3300032: Sphere38
+    3300034: Sphere39
+    3300036: Sphere40
+    3300038: Sphere41
+    3300040: Sphere42
+    3300042: Sphere43
+    3300044: Sphere44
+    3300046: Sphere45
+    3300048: Sphere46
+    3300050: Sphere47
+    3300052: Sphere48
+    3300054: Sphere49
+    3300056: Sphere50
+    4300000: Box31
+    4300002: Sphere37
+    4300004: Sphere38
+    4300006: Box32
+    4300008: Sphere39
+    4300010: Box33
+    4300012: Sphere40
+    4300014: Box40
+    4300016: Sphere41
+    4300018: Box34
+    4300020: Sphere42
+    4300022: Box35
+    4300024: Sphere43
+    4300026: Box39
+    4300028: Cylinder03
+    4300030: Sphere46
+    4300032: Box38
+    4300034: Sphere50
+    4300036: Box41
+    4300038: Sphere48
+    4300040: hand_ new0
+    4300042: Sphere49
+    4300044: Box37
+    4300046: Sphere47
+    4300048: Box36
+    4300050: Sphere44
+    4300052: hand_ new1
+    4300054: objGroup60
+    4300056: Sphere45
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Group01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere41
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere38
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere42
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere39
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere43
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere40
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Cylinder03
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Box37
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere46
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere47
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere50
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere44
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sphere48
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_ new1
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_ new0
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Box39
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Mannequin N160511(Clone)
+      parentName: 
+      position: {x: -0, y: 769.0769, z: -0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Group01
+      parentName: Mannequin N160511(Clone)
+      position: {x: 26.951416, y: 343.16748, z: 60.291992}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box31
+      parentName: Group01
+      position: {x: -13.577148, y: -92.18457, z: -13.365234}
+      rotation: {x: -0.06705768, y: 0.66964185, z: -0.7384083, w: -0.04285136}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1}
+    - name: Sphere37
+      parentName: Box31
+      position: {x: 0.000024223327, y: -0.00019378662, z: 0.000048446655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9538571, y: 0.6986596, z: 0.9538571}
+    - name: Sphere38
+      parentName: Box31
+      position: {x: -88.12158, y: 1.5703498, z: 123.83173}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Box32
+      parentName: Sphere38
+      position: {x: 0.000024223327, y: 0.00009689331, z: 0.000048446655}
+      rotation: {x: -0.1715448, y: -0.009789924, z: 0.0127767585, w: 0.98504484}
+      scale: {x: 1.6689092, y: 1.6689092, z: 1.1181681}
+    - name: Sphere39
+      parentName: Box32
+      position: {x: 16.737059, y: -1.6531452, z: 362.04388}
+      rotation: {x: -0.000000012010909, y: 0.000000012010909, z: 0.6755902, w: 0.7372773}
+      scale: {x: 0.62091184, y: 0.62091184, z: 0.8918815}
+    - name: Box33
+      parentName: Sphere39
+      position: {x: 0.000048446655, y: 0, z: -0.000054502485}
+      rotation: {x: 0.1736078, y: -0.095833644, z: -0.6551096, w: 0.72904575}
+      scale: {x: 0.9650224, y: 0.9650224, z: 0.9650223}
+    - name: Sphere40
+      parentName: Box33
+      position: {x: 26.17849, y: -16.770924, z: 401.47617}
+      rotation: {x: 8.346699e-11, y: -0.0000000019117088, z: -0.04361938, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box40
+      parentName: Sphere40
+      position: {x: 0.000024223327, y: 0, z: -0.000006055832}
+      rotation: {x: 0.026738754, y: -0.033321638, z: 0.7792251, w: 0.6252863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere41
+      parentName: Box31
+      position: {x: 84.737, y: 1.570404, z: 123.83173}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1.0000001, z: 1}
+    - name: Box34
+      parentName: Sphere41
+      position: {x: 0.000024223327, y: 0.00009689331, z: 0.000048446655}
+      rotation: {x: -0.09064218, y: -0.025001343, z: 0.05904578, w: 0.99381715}
+      scale: {x: 1.6689092, y: 1.6689092, z: 1.1181681}
+    - name: Sphere42
+      parentName: Box34
+      position: {x: 16.737059, y: -1.6531452, z: 362.04388}
+      rotation: {x: -0.000000012010909, y: 0.000000012010909, z: 0.6755902, w: 0.7372773}
+      scale: {x: 0.62091184, y: 0.62091184, z: 0.8918815}
+    - name: Box35
+      parentName: Sphere42
+      position: {x: 0.000048446655, y: 0, z: -0.000054502485}
+      rotation: {x: 0.07903875, y: -0.0025161053, z: -0.66426635, w: 0.74330133}
+      scale: {x: 0.9650224, y: 0.9650224, z: 0.9650223}
+    - name: Sphere43
+      parentName: Box35
+      position: {x: 26.17849, y: -16.770924, z: 401.47617}
+      rotation: {x: 8.346699e-11, y: -0.0000000019117088, z: -0.04361938, w: 0.99904823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box39
+      parentName: Sphere43
+      position: {x: 0.000024223327, y: 0, z: -0.000006055832}
+      rotation: {x: -0.19132449, y: 0.1064776, z: -0.9260924, w: -0.30726284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cylinder03
+      parentName: Group01
+      position: {x: -13.577148, y: -92.18457, z: -13.365234}
+      rotation: {x: 0.05518361, y: 0.9968455, z: 0.036943972, w: 0.043462723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere46
+      parentName: Cylinder03
+      position: {x: -124.78778, y: 268.3439, z: -31.355558}
+      rotation: {x: 0.6755902, y: 0, z: 0, w: 0.7372773}
+      scale: {x: 1.4456393, y: 1.3265748, z: 1.4456393}
+    - name: Box38
+      parentName: Sphere46
+      position: {x: 0.000048446655, y: -0.00009689331, z: -0.00008478165}
+      rotation: {x: -0.35813546, y: -0.1281005, z: -0.20174833, w: 0.90256685}
+      scale: {x: 0.43775544, y: 0.44440615, z: 0.4077186}
+    - name: Sphere50
+      parentName: Box38
+      position: {x: 15.136988, y: -8.392899, z: 420.27975}
+      rotation: {x: 0.00000005983307, y: 0.13052616, z: -0.000000007877171, w: 0.9914449}
+      scale: {x: 1.9390633, y: 2.0823524, z: 2.0823526}
+    - name: Box41
+      parentName: Sphere50
+      position: {x: 0.000024223327, y: 0.00019378662, z: 0.000024223327}
+      rotation: {x: -0.09492777, y: 0.4369345, z: 0.07164341, w: 0.89159644}
+      scale: {x: 0.49510956, y: 0.4802261, z: 0.5470324}
+    - name: Sphere48
+      parentName: Box41
+      position: {x: 22.267391, y: -5.4049025, z: 329.2469}
+      rotation: {x: 0.1300296, y: 0.08641, z: 0.01137603, w: 0.98767215}
+      scale: {x: 1.8415817, y: 1.8986571, z: 1.6667838}
+    - name: hand_ new0
+      parentName: Sphere48
+      position: {x: -0.00009689331, y: 0, z: -0.00007266998}
+      rotation: {x: 0.23842743, y: 0.5478405, z: -0.735271, w: 0.31999964}
+      scale: {x: -0.5546919, y: -0.5037085, z: -0.5037084}
+    - name: Sphere49
+      parentName: Cylinder03
+      position: {x: 125.92055, y: 268.3439, z: -31.35548}
+      rotation: {x: 0.6755902, y: 0, z: 0, w: 0.7372773}
+      scale: {x: -1.4456393, y: 1.3265749, z: 1.4456394}
+    - name: Box37
+      parentName: Sphere49
+      position: {x: 0.000048446655, y: -0.00009689331, z: -0.00008478165}
+      rotation: {x: 0.1608113, y: -0.16373494, z: -0.088163115, w: 0.96930796}
+      scale: {x: 0.43775544, y: 0.44440615, z: 0.4077186}
+    - name: Sphere47
+      parentName: Box37
+      position: {x: 15.136988, y: -8.392899, z: 420.27975}
+      rotation: {x: 0.00000005983307, y: 0.13052616, z: -0.000000007877171, w: 0.9914449}
+      scale: {x: 1.9390633, y: 2.0823524, z: 2.0823526}
+    - name: Box36
+      parentName: Sphere47
+      position: {x: 0.000024223327, y: 0.00019378662, z: 0.000024223327}
+      rotation: {x: -0.46022296, y: 0.374842, z: 0.41602403, w: 0.68892115}
+      scale: {x: 0.49510956, y: 0.4802261, z: 0.5470324}
+    - name: Sphere44
+      parentName: Box36
+      position: {x: 22.267391, y: -5.4049025, z: 329.2469}
+      rotation: {x: 0.1300296, y: 0.08641, z: 0.01137603, w: 0.98767215}
+      scale: {x: 1.8415817, y: 1.8986571, z: 1.6667838}
+    - name: hand_ new1
+      parentName: Sphere44
+      position: {x: -0.00009689331, y: 0, z: -0.00007266998}
+      rotation: {x: 0.5069869, y: 0.22257558, z: -0.7910762, w: 0.26004413}
+      scale: {x: -0.5546919, y: -0.5037085, z: -0.5037084}
+    - name: objGroup60
+      parentName: Cylinder03
+      position: {x: 0.10491123, y: 420.06912, z: -9.0687895}
+      rotation: {x: -0.025545958, y: 0.1791196, z: 0.0015268333, w: 0.9834944}
+      scale: {x: 1.1963108, y: 1.1064249, z: 1.1064249}
+    - name: Sphere45
+      parentName: objGroup60
+      position: {x: -0.00014533996, y: 0, z: -0.000006055832}
+      rotation: {x: -0.56098557, y: 0.56098527, z: -0.43045944, w: -0.43045947}
+      scale: {x: 0.9580167, y: 0.7034192, z: 0.83141625}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
